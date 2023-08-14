@@ -104,6 +104,9 @@ function App() {
       )}
        <br /><br />
       <button onClick={getUserLocation}>Show My Location</button>
+      <p>
+There are some key issues about getting location info on iPhones.
+</p>
       <br /><br />
       <div><div className="erdemlabel"><a href="https://github.com/erdemonal11" target="_blank" className="erdemlabel">erdemapps.</a></div>  <br /> Beta Version 14/08/2023 Contact me via my GitHub for issues </div>
     </>
